@@ -1,0 +1,317 @@
+ObjectName: grass_square_mesh (1) Pos: 100 0 100 Rotate: 0
+ObjectName: bush_small_mesh (1) Pos: 96.21 0 97.02 Rotate: 0
+ObjectName: road_straight_clear_mesh (24) Pos: 80 0 40 Rotate: 180
+ObjectName: rubbishTruck_mesh Pos: 51.62 0 31.06 Rotate: 180
+ObjectName: fence_long_mesh Pos: 96.93001 0 99.09972 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (5) Pos: 15 0.00999999 53.3 Rotate: 0
+ObjectName: Prop_Tree_01 (1) Pos: 29.96 0 57.5 Rotate: 0
+ObjectName: road_straight_clear_mesh (59) Pos: 40 0 95 Rotate: 270
+ObjectName: fence_long_mesh (4) Pos: 75.71 0 99.09972 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (30) Pos: 53.3 0.00999999 70 Rotate: 90.00001
+ObjectName: Env_Planter (3) Pos: 24.84 0 84.42 Rotate: 0
+ObjectName: car_red (1) Pos: 9.73 0 11.48 Rotate: 0
+ObjectName: Prop_Beachseat_01 Pos: 80.14 0 92.13 Rotate: 0
+ObjectName: road_straight_clear_mesh (49) Pos: 60 0 75 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (55) Pos: 40 0 95 Rotate: 270
+ObjectName: Building_BaberShop Pos: 17.43 -1 62.93 Rotate: 0
+ObjectName: road_corner_mesh (2) Pos: 40 0 60 Rotate: 270
+ObjectName: Prop_Tree_01 (2) Pos: 30.07 0 42.42 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (24) Pos: 53.3 0.00999999 65 Rotate: 90.00001
+ObjectName: roadLane_straight_Centered_mesh (31) Pos: 53.3 0.00999999 95 Rotate: 90.00001
+ObjectName: Prop_Umbrella_02 Pos: 64.72 -1 6.616306 Rotate: 0
+ObjectName: Prop_Tree_02 (1) Pos: 42.3 0 69.98 Rotate: 0
+ObjectName: Building_Shop_05 (1) Pos: 34.31 0 5.259995 Rotate: 270
+ObjectName: roadLane_straight_Centered_mesh (2) Pos: 35 0.00999999 53.3 Rotate: 0
+ObjectName: Building_StoreCorner_Drug Pos: 65.62 0 65.44 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (12) Pos: 85 0.00999999 53.3 Rotate: 0
+ObjectName: Aerial_mesh (2) Pos: 81.56 -1 14.35 Rotate: 0
+ObjectName: road_straight_clear_mesh (20) Pos: 70 0 40 Rotate: 180
+ObjectName: road_straight_clear_mesh (57) Pos: 40 0 80 Rotate: 270
+ObjectName: road_straight_clear_mesh (9) Pos: 15 0 40 Rotate: 180
+ObjectName: Building_ApartmentLarge_Brown Pos: 17.7 0 9.769997 Rotate: 180
+ObjectName: road_straight_clear_mesh (74) Pos: 60 0 30 Rotate: 90.00001
+ObjectName: roadLane_straight_Centered_mesh (27) Pos: 53.3 0.00999999 65 Rotate: 90.00001
+ObjectName: traffic_light_mesh (7) Pos: 42.33 0 64.02 Rotate: 90.00001
+ObjectName: fence_short_spike (2) Pos: 39.09 -0.9984311 26.1 Rotate: 90.00001
+ObjectName: Prop_Tree_02 (6) Pos: 97.85 0 76.89 Rotate: 0
+ObjectName: bush_large_mesh (3) Pos: 61.11 0 12.48 Rotate: 0
+ObjectName: Building_Shop_05 Pos: 34.31 0 5.259995 Rotate: 270
+ObjectName: road_straight_clear_mesh (31) Pos: 95 0 40 Rotate: 180
+ObjectName: trash_mesh Pos: 57.87 0 78.359 Rotate: 0
+ObjectName: bush_large_mesh Pos: 61.11 0 12.48 Rotate: 0
+ObjectName: fence_long_mesh (3) Pos: 81.04 0 99.09972 Rotate: 0
+ObjectName: road_crossing_mesh (4) Pos: 60 0 60 Rotate: 90.00001
+ObjectName: road_crossing_mesh Pos: 65 0 60 Rotate: 0
+ObjectName: road_straight_clear_mesh (36) Pos: 40 0 30 Rotate: 270
+ObjectName: Prop_TirePile Pos: 14.75 0 38.2 Rotate: 0
+ObjectName: road_straight_clear_mesh (43) Pos: 60 0 15 Rotate: 90.00001
+ObjectName: Building_OfficeSmall_Grey Pos: 32.75 0 17.74 Rotate: 270.0001
+ObjectName: road_straight_clear_mesh (44) Pos: 40 0 10 Rotate: 270
+ObjectName: roadLane_straight_Centered_mesh (23) Pos: 53.3 0.00999999 5 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (3) Pos: 30 0 40 Rotate: 180
+ObjectName: roadLane_straight_Centered_mesh (21) Pos: 53.3 0.00999999 15 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (46) Pos: 40 0 5 Rotate: 270
+ObjectName: lamp_mesh (5) Pos: 56.6 0 20.3 Rotate: 90.00001
+ObjectName: roadLane_straight_Centered_mesh (33) Pos: 53.3 0.00999999 95 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (10) Pos: 15 0 60 Rotate: 0
+ObjectName: road_crossing_mesh (10) Pos: 40 0 65 Rotate: 270
+ObjectName: Prop_Tree_02 (4) Pos: 97.85 0 76.89 Rotate: 0
+ObjectName: ute_mesh_red Pos: 44.70654 0 67.13651 Rotate: 0
+ObjectName: fence_long_mesh (6) Pos: 75.71 0 99.09972 Rotate: 0
+ObjectName: road_straight_clear_mesh (30) Pos: 100 0 60 Rotate: 0
+ObjectName: Aerial_mesh Pos: 81.56 -1 14.35 Rotate: 0
+ObjectName: road_straight_clear_mesh (61) Pos: 40 0 85 Rotate: 270
+ObjectName: road_straight_clear_mesh (7) Pos: 20 0 40 Rotate: 180
+ObjectName: fence_short_spike Pos: 39.09 -0.9984311 26.1 Rotate: 90.00001
+ObjectName: Building_Shop_02 Pos: 63.49 0 23.2 Rotate: 90.00001
+ObjectName: road_corner_mesh (1) Pos: 60 0 40 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (45) Pos: 60 0 30 Rotate: 90.00001
+ObjectName: lamp_mesh (2) Pos: 20.3 0 43.6 Rotate: 180
+ObjectName: road_straight_clear_mesh (23) Pos: 80 0 60 Rotate: 0
+ObjectName: tree_medium_mesh Pos: 9.939999 0 57.37 Rotate: 0
+ObjectName: fence_long_mesh (7) Pos: 81.04 0 99.09972 Rotate: 0
+ObjectName: Prop_Tree_02 Pos: 57.65 0 89.9 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (29) Pos: 53.3 0.00999999 85 Rotate: 90.00001
+ObjectName: Prop_Tree_01 (3) Pos: 90.2 0 42.42 Rotate: 0
+ObjectName: road_straight_clear_mesh (70) Pos: 15 0 60 Rotate: 0
+ObjectName: road_straight_clear_mesh (76) Pos: 60 0 25 Rotate: 90.00001
+ObjectName: ute_mesh_red (1) Pos: 44.70654 0 67.13651 Rotate: 0
+ObjectName: road_straight_clear_mesh (37) Pos: 60 0 25 Rotate: 90.00001
+ObjectName: roadLane_straight_Centered_mesh (9) Pos: 70 0.00999999 53.3 Rotate: 0
+ObjectName: Building_StoreCorner_Drug (1) Pos: 65.62 0 65.44 Rotate: 0
+ObjectName: lamp_mesh (1) Pos: 80 0 43.57 Rotate: 180
+ObjectName: roadLane_straight_Centered_mesh (17) Pos: 53.3 0.00999999 30 Rotate: 90.00001
+ObjectName: grass_square_mesh Pos: 40 0 100 Rotate: 0
+ObjectName: bush_large_mesh (1) Pos: 98.01 0 97.23 Rotate: 0
+ObjectName: road_Roundabout Pos: 85 0 84.96 Rotate: 0
+ObjectName: road_straight_clear_mesh (52) Pos: 60 0 90 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (34) Pos: 40 0 35 Rotate: 270
+ObjectName: car_red (2) Pos: 9.73 0 11.48 Rotate: 0
+ObjectName: car_red Pos: 74.1 0 55 Rotate: 90.00001
+ObjectName: roadLane_straight_Centered_mesh (39) Pos: 53.3 0.00999999 30 Rotate: 90.00001
+ObjectName: rubbishTruck_mesh (1) Pos: 51.62 0 31.06 Rotate: 180
+ObjectName: Building_OfficeSmall_Blue Pos: 32.9 -1 79.4 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (7) Pos: 5 0.00999999 53.3 Rotate: 0
+ObjectName: Building_StoreCorner_Pawn Pos: 34.5 0 65.49 Rotate: 270
+ObjectName: Prop_Beachseat_01 (1) Pos: 80.14 0 92.13 Rotate: 0
+ObjectName: fire_truck_mesh (1) Pos: 31.16 0 48.32 Rotate: 270
+ObjectName: Env_Planter Pos: 64.33 0 16.01 Rotate: 90.00001
+ObjectName: traffic_light_mesh (2) Pos: 64.4 0 57.59 Rotate: 180
+ObjectName: hydrant_mesh (1) Pos: 28.09 0 41.99 Rotate: 0
+ObjectName: road_straight_clear_mesh (11) Pos: 10 0 40 Rotate: 180
+ObjectName: pipe_mesh Pos: 72.47596 -1.087875 86.62628 Rotate: 0
+ObjectName: road_crossing_mesh (5) Pos: 40 0 65 Rotate: 270
+ObjectName: road_straight_clear_mesh (16) Pos: 15 0 40 Rotate: 180
+ObjectName: road_straight_clear_mesh (79) Pos: 10 0 40 Rotate: 180
+ObjectName: fire_truck_mesh Pos: 31.16 0 48.32 Rotate: 270
+ObjectName: fence_long_mesh (5) Pos: 96.93001 0 99.09972 Rotate: 0
+ObjectName: Env_Planter (2) Pos: 7.649998 0 84.4 Rotate: 0
+ObjectName: road_straight_clear_mesh (77) Pos: 60 0 90 Rotate: 90.00001
+ObjectName: Building_OfficeStepped_Grey Pos: 90.8 -1 11.8 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (25) Pos: 85 0 60 Rotate: 0
+ObjectName: tree_large_mesh Pos: 57.62 0 70.37 Rotate: 90.00001
+ObjectName: road_crossing_mesh (3) Pos: 40 0 60 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (34) Pos: 85 0.00999999 53.3 Rotate: 0
+ObjectName: road_straight_clear_mesh (50) Pos: 40 0 70 Rotate: 270
+ObjectName: road_corner_mesh Pos: 60 0 60 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (20) Pos: 53.3 0.00999999 0 Rotate: 90.00001
+ObjectName: Building_OfficeSmall_Grey (1) Pos: 32.75 0 17.74 Rotate: 270.0001
+ObjectName: road_straight_clear_mesh (39) Pos: 60 0 5 Rotate: 90.00001
+ObjectName: ambo_mesh Pos: 48.4 0 67.8 Rotate: 0
+ObjectName: road_straight_clear_mesh (48) Pos: 40 0 90 Rotate: 270
+ObjectName: Env_Planter (5) Pos: 24.84 0 84.42 Rotate: 0
+ObjectName: tree_medium_mesh (2) Pos: 77.81 0 92.60947 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (26) Pos: 53.3 0.00999999 90 Rotate: 90.00001
+ObjectName: roadLane_straight_Centered_mesh (19) Pos: 53.3 0.00999999 20 Rotate: 90.00001
+ObjectName: car_rr_wheel_mesh Pos: 31.42583 0.3634957 43.64829 Rotate: 270
+ObjectName: car_rl_wheel_mesh Pos: 31.42583 0.3634957 45.87172 Rotate: 270
+ObjectName: car_fr_wheel_mesh Pos: 34.7823 0.3634955 43.64829 Rotate: 270
+ObjectName: car_fl_wheel_mesh Pos: 34.7823 0.3634957 45.87172 Rotate: 270
+ObjectName: car_seperate_red Pos: 33.16 0 44.76 Rotate: 270
+ObjectName: fence_long_mesh (1) Pos: 91.61 0 99.09972 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (36) Pos: 53.3 0.00999999 15 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (14) Pos: 5 0 60 Rotate: 0
+ObjectName: Building_OfficeLarge_Blue Pos: 80.14 0 32.6 Rotate: 180
+ObjectName: roadLane_straight_Centered_mesh (40) Pos: 5 0.00999999 53.3 Rotate: 0
+ObjectName: road_straight_clear_mesh (8) Pos: 20 0 60 Rotate: 0
+ObjectName: road_straight_clear_mesh (67) Pos: 60 0 15 Rotate: 90.00001
+ObjectName: Env_Planter (1) Pos: 7.649998 0 92.5 Rotate: 0
+ObjectName: road_straight_clear_mesh (40) Pos: 40 0 20 Rotate: 270
+ObjectName: grass_square_mesh (2) Pos: 100 0 40 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (3) Pos: 30 0.00999999 53.3 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (8) Pos: 15 0.00999999 53.3 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (10) Pos: 75 0.00999999 53.3 Rotate: 0
+ObjectName: road_straight_clear_mesh (75) Pos: 80 0 60 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (38) Pos: 70 0.00999999 53.3 Rotate: 0
+ObjectName: tree_medium_mesh (1) Pos: 70.1 0 57.37 Rotate: 0
+ObjectName: Building_CoffeeShop Pos: 65.96 0 34.26 Rotate: 90.00001
+ObjectName: Prop_Tree_01 (8) Pos: 30.07 0 42.42 Rotate: 0
+ObjectName: Building_ApartmentSmall_Orange Pos: 66.47 -1 92 Rotate: 90.00001
+ObjectName: Building_PizzaShop Pos: 80 0 66.6 Rotate: 270
+ObjectName: road_straight_clear_mesh (65) Pos: 95 0 40 Rotate: 180
+ObjectName: roadLane_straight_Centered_mesh (6) Pos: 10 0.00999999 53.3 Rotate: 0
+ObjectName: road_straight_clear_mesh (54) Pos: 40 0 100 Rotate: 270
+ObjectName: road_straight_clear_mesh (5) Pos: 25 0 40 Rotate: 180
+ObjectName: traffic_light_mesh (4) Pos: 42.33 0 39.29 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (15) Pos: 0 0 40 Rotate: 180
+ObjectName: roadLane_straight_Centered_mesh (13) Pos: 90 0.00999999 53.3 Rotate: 0
+ObjectName: hydrant_mesh Pos: 42.22 0 77.9 Rotate: 0
+ObjectName: Building_ApartmentLarge_Brown (1) Pos: 17.7 0 9.769997 Rotate: 180
+ObjectName: road_straight_clear_mesh (60) Pos: 40 0 75 Rotate: 270
+ObjectName: car_blue Pos: 66.7 0 51.5 Rotate: 90.00001
+ObjectName: roadLane_straight_Centered_mesh (18) Pos: 53.3 0.00999999 25 Rotate: 90.00001
+ObjectName: bush_small_mesh Pos: 68.94743 -0.9903023 1.175159 Rotate: 0
+ObjectName: flag_mesh Pos: 12.8 6.256 78.71 Rotate: 90.00001
+ObjectName: tree_medium_mesh (3) Pos: 9.939999 0 57.37 Rotate: 0
+ObjectName: traffic_light_mesh (9) Pos: 64.4 0 57.59 Rotate: 180
+ObjectName: lamp_mesh Pos: 80 0 56.59 Rotate: 0
+ObjectName: hydrant_mesh (2) Pos: 58.05 0 27.92 Rotate: 0
+ObjectName: road_straight_clear_mesh (33) Pos: 80 0 40 Rotate: 180
+ObjectName: road_straight_clear_mesh (47) Pos: 60 0 0 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (6) Pos: 25 0 60 Rotate: 0
+ObjectName: Prop_Umbrella_02 (1) Pos: 80.4 0 95.72 Rotate: 0
+ObjectName: hotdog_rr_wheel Pos: 70.85128 0.4301999 6.77399 Rotate: 180
+ObjectName: hotdog_rl_wheel Pos: 68.16872 0.4301999 6.773991 Rotate: 180
+ObjectName: hotdog_fr_wheel Pos: 70.85129 0.4301999 10.78148 Rotate: 180
+ObjectName: hotdog_fl_wheel Pos: 68.16872 0.4301999 10.78148 Rotate: 180
+ObjectName: Vehicles_HotdogTruck Pos: 69.51 0 8.889999 Rotate: 180
+ObjectName: Building_StoreCorner_Pawn (1) Pos: 34.5 0 65.49 Rotate: 270
+ObjectName: fence_short_spike (1) Pos: 39.09 -0.9984311 28.72 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (72) Pos: 40 0 85 Rotate: 270
+ObjectName: Prop_Tree_02 (5) Pos: 42.3 0 69.98 Rotate: 0
+ObjectName: road_straight_clear_mesh (71) Pos: 100 0 60 Rotate: 0
+ObjectName: road_straight_clear_mesh (42) Pos: 40 0 15 Rotate: 270
+ObjectName: bush_large_mesh (4) Pos: 98.01 0 97.23 Rotate: 0
+ObjectName: road_straight_clear_mesh (17) Pos: 30 0 40 Rotate: 180
+ObjectName: roadLane_straight_Centered_mesh (22) Pos: 53.3 0.00999999 10 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (19) Pos: 70 0 60 Rotate: 0
+ObjectName: trash_mesh (2) Pos: 57.87 0 78.359 Rotate: 0
+ObjectName: Building_AutoRepair Pos: 18.32 0 33.5 Rotate: 180
+ObjectName: road_straight_clear_mesh (21) Pos: 75 0 60 Rotate: 0
+ObjectName: Env_Planter (6) Pos: 64.33 0 16.01 Rotate: 90.00001
+ObjectName: bush_small_mesh (2) Pos: 96.21 0 97.02 Rotate: 0
+ObjectName: Prop_Umbrella_01 Pos: 64.72 -1 12.20169 Rotate: 0
+ObjectName: Building_Shop_02 (1) Pos: 63.49 0 23.2 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (29) Pos: 95 0 60 Rotate: 0
+ObjectName: road_crossing_mesh (9) Pos: 65 0 60 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (37) Pos: 53.3 0.00999999 85 Rotate: 90.00001
+ObjectName: road_crossing_mesh (7) Pos: 60 0 35 Rotate: 90.00001
+ObjectName: taxi_mesh Pos: 55.01 -1.001499 32.97 Rotate: 180
+ObjectName: lamp_mesh (8) Pos: 74.5 0 88.22 Rotate: 270
+ObjectName: traffic_light_mesh (5) Pos: 57.75 0 35.74 Rotate: 270
+ObjectName: road_straight_clear_mesh (38) Pos: 40 0 25 Rotate: 270
+ObjectName: road_crossing_mesh (1) Pos: 60 0 40 Rotate: 180
+ObjectName: Building_BaberShop (1) Pos: 17.43 -1 62.93 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (35) Pos: 53.3 0.00999999 5 Rotate: 90.00001
+ObjectName: pipe_mesh (1) Pos: 72.47596 -1.087875 86.62628 Rotate: 0
+ObjectName: Env_Planter (4) Pos: 24.84 0 92.52 Rotate: 0
+ObjectName: tree_large_mesh (1) Pos: 57.7 0 9.900002 Rotate: 90.00001
+ObjectName: bush_large_mesh (2) Pos: 85.3 0 96.6 Rotate: 0
+ObjectName: road_straight_clear_mesh (12) Pos: 10 0 60 Rotate: 0
+ObjectName: lamp_mesh (3) Pos: 20.3 0 56.6 Rotate: 0
+ObjectName: road_crossing_mesh (2) Pos: 35 0 40 Rotate: 180
+ObjectName: road_straight_clear_mesh (2) Pos: 35 0 60 Rotate: 0
+ObjectName: road_straight_clear_mesh (28) Pos: 90 0 40 Rotate: 180
+ObjectName: road_straight_clear_mesh (68) Pos: 40 0 10 Rotate: 270
+ObjectName: car_blue (1) Pos: 44.8 0 74.1 Rotate: 0
+ObjectName: Prop_Roadsign_03 Pos: 57.95444 0 38.29 Rotate: 0
+ObjectName: Prop_Tree_01 (9) Pos: 90.2 0 42.42 Rotate: 0
+ObjectName: hydrant_mesh (4) Pos: 17.88212 0 80.41141 Rotate: 0
+ObjectName: road_straight_clear_mesh (56) Pos: 60 0 65 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (69) Pos: 40 0 5 Rotate: 270
+ObjectName: road_straight_clear_mesh (73) Pos: 20 0 40 Rotate: 180
+ObjectName: bus_brown Pos: 75 0 51.7 Rotate: 90.00001
+ObjectName: Building_OfficeSmall_Blue (2) Pos: 32.9 -1 79.4 Rotate: 0
+ObjectName: Building_Shop_01 Pos: 35.68 0 94.14 Rotate: 270
+ObjectName: Prop_Roadsign_01 Pos: 57.81 0 59.9 Rotate: 180
+ObjectName: Prop_Tree_01 (5) Pos: 64.02 0 1.119999 Rotate: 0
+ObjectName: lamp_mesh (6) Pos: 56.6 0 79.81 Rotate: 90.00001
+ObjectName: traffic_light_mesh Pos: 35.76 0 42.26 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (15) Pos: 100 0.00999999 53.3 Rotate: 0
+ObjectName: Prop_Tree_01 (6) Pos: 91.91 0 92.50999 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (1) Pos: 25 0.00999999 53.3 Rotate: 0
+ObjectName: road_crossing_mesh (6) Pos: 40 0 40 Rotate: 270
+ObjectName: lamp_mesh (9) Pos: 56.6 0 20.3 Rotate: 90.00001
+ObjectName: lamp_mesh (4) Pos: 43.7 0 19.84 Rotate: 270
+ObjectName: car_red (3) Pos: 74.1 0 55 Rotate: 90.00001
+ObjectName: lamp_mesh (7) Pos: 43.7 0 79.81 Rotate: 270
+ObjectName: roadLane_straight_Centered_mesh (28) Pos: 53.3 0.00999999 80 Rotate: 90.00001
+ObjectName: Prop_TirePile (1) Pos: 27.68 0 38.4 Rotate: 0
+ObjectName: ute_rr_wheel_mesh Pos: 4.729406 0.3592358 35.12758 Rotate: 0
+ObjectName: ute_rl_wheel_mesh Pos: 6.870592 0.3592358 35.12758 Rotate: 0
+ObjectName: ute_fr_wheel_mesh Pos: 4.729406 0.3592359 31.77111 Rotate: 0
+ObjectName: ute_fl_wheel_mesh Pos: 6.870592 0.3592359 31.77111 Rotate: 0
+ObjectName: ute_seperate_blue Pos: 5.799999 0 33.42 Rotate: 0
+ObjectName: grass_square_mesh (3) Pos: 40 0 40 Rotate: 0
+ObjectName: road_straight_clear_mesh (41) Pos: 70 0 40 Rotate: 180
+ObjectName: van_mesh_blue Pos: 66.95 0 55.06 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (63) Pos: 60 0 70 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (18) Pos: 65 0 40 Rotate: 180
+ObjectName: Prop_Roadsign_03 (1) Pos: 39.91 0 41.95 Rotate: 90.00001
+ObjectName: road_Roundabout (1) Pos: 85 0 84.96 Rotate: 0
+ObjectName: hydrant_mesh (3) Pos: 86.8 0 42.06 Rotate: 0
+ObjectName: road_corner_mesh (3) Pos: 40 0 40 Rotate: 180
+ObjectName: road_straight_clear_mesh (51) Pos: 60 0 75 Rotate: 90.00001
+ObjectName: Building_StoreCorner_Video Pos: 34.3 0 34.22 Rotate: 180
+ObjectName: grass_square_mesh (5) Pos: 40 0 100 Rotate: 0
+ObjectName: road_straight_clear_mesh (22) Pos: 75 0 40 Rotate: 180
+ObjectName: road_straight_clear_mesh (32) Pos: 60 0 20 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (4) Pos: 30 0 60 Rotate: 0
+ObjectName: road_straight_clear_mesh (58) Pos: 60 0 95 Rotate: 90.00001
+ObjectName: Prop_Tree_02 (3) Pos: 42.35 0 30.2 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (25) Pos: 53.3 0.00999999 75 Rotate: 90.00001
+ObjectName: Prop_Tree_02 (2) Pos: 42.35 0 9.979996 Rotate: 0
+ObjectName: road_straight_clear_mesh (66) Pos: 40 0 30 Rotate: 270
+ObjectName: path_straight_mesh Pos: 62.81 0 10 Rotate: 0
+ObjectName: road_straight_clear_mesh (35) Pos: 60 0 10 Rotate: 90.00001
+ObjectName: Prop_Tree_01 (4) Pos: 90.1 0 57.5 Rotate: 0
+ObjectName: road_straight_clear_mesh (78) Pos: 40 0 35 Rotate: 270
+ObjectName: grass_square_mesh (4) Pos: 100 0 100 Rotate: 0
+ObjectName: tree_large_mesh (5) Pos: 84.79 0 84.4 Rotate: 0
+ObjectName: road_crossing_mesh (8) Pos: 60 0 60 Rotate: 90.00001
+ObjectName: roadLane_straight_Centered_mesh (16) Pos: 35 0.00999999 53.3 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (4) Pos: 20 0.00999999 53.3 Rotate: 0
+ObjectName: road_straight_clear_mesh (62) Pos: 60 0 80 Rotate: 90.00001
+ObjectName: roadLane_straight_Centered_mesh (32) Pos: 53.3 0.00999999 70 Rotate: 90.00001
+ObjectName: Prop_TirePile (2) Pos: 14.75 0 38.2 Rotate: 0
+ObjectName: Aerial_mesh (1) Pos: 10.83 0 78.71 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (11) Pos: 80 0.00999999 53.3 Rotate: 0
+ObjectName: traffic_light_mesh (3) Pos: 60.36 0 42.1 Rotate: 0
+ObjectName: tree_large_mesh (4) Pos: 70.2 0 42.59 Rotate: 90.00001
+ObjectName: lamp_mesh (10) Pos: 20.3 0 43.6 Rotate: 180
+ObjectName: traffic_light_mesh (1) Pos: 39.59 0 57.68 Rotate: 180
+ObjectName: tree_large_mesh (2) Pos: 10 0 42.59 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (26) Pos: 85 0 40 Rotate: 180
+ObjectName: Prop_Tree_01 (7) Pos: 29.96 0 57.5 Rotate: 0
+ObjectName: ute_rr_wheel_mesh Pos: 20.03242 0.3592358 16.94941 Rotate: 270
+ObjectName: ute_rl_wheel_mesh Pos: 20.03242 0.3592358 19.09059 Rotate: 270
+ObjectName: ute_fr_wheel_mesh Pos: 23.38889 0.3592359 16.94941 Rotate: 270
+ObjectName: ute_fl_wheel_mesh Pos: 23.38889 0.3592359 19.09059 Rotate: 270
+ObjectName: ute_seperate_blue (3) Pos: 21.74 0 18.02 Rotate: 270
+ObjectName: Prop_Roadsign_02 Pos: 59.04 -0.997328 42.05 Rotate: 270
+ObjectName: car_green Pos: 48.4 0 76.9 Rotate: 0
+ObjectName: traffic_light_mesh (8) Pos: 42.33 0 64.02 Rotate: 90.00001
+ObjectName: road_straight_clear_mesh (53) Pos: 60 0 85 Rotate: 90.00001
+ObjectName: road_corner_mesh (5) Pos: 60 0 40 Rotate: 90.00001
+ObjectName: Building_OfficeSmall_Blue (1) Pos: 16.3 0 87.41319 Rotate: 0
+ObjectName: cop_mesh Pos: 25.2 0 44.87 Rotate: 270
+ObjectName: trash_mesh (1) Pos: 62.57 0 4.429848 Rotate: 0
+ObjectName: hydrant_mesh (5) Pos: 28.09 0 41.99 Rotate: 0
+ObjectName: Building_Store_Video Pos: 93.60001 0 35.64 Rotate: 0
+ObjectName: Prop_Tree_02 (7) Pos: 57.65 0 89.9 Rotate: 0
+ObjectName: Prop_Umbrella_02 (2) Pos: 64.72 -1 6.616306 Rotate: 0
+ObjectName: road_straight_clear_mesh (64) Pos: 40 0 80 Rotate: 270
+ObjectName: lamp_mesh (11) Pos: 80 0 43.57 Rotate: 180
+ObjectName: road_straight_clear_mesh (27) Pos: 90 0 60 Rotate: 0
+ObjectName: roadLane_straight_Centered_mesh (14) Pos: 95 0.00999999 53.3 Rotate: 0
+ObjectName: road_straight_clear_mesh (13) Pos: 5 0 40 Rotate: 180
+ObjectName: road_corner_mesh (4) Pos: 40 0 60 Rotate: 270
+ObjectName: traffic_light_mesh (6) Pos: 57.75 0 60.47 Rotate: 270
+ObjectName: fence_long_mesh (2) Pos: 86.31 0 99.09972 Rotate: 0
+ObjectName: Building_Gym Pos: 6.399998 0 63.5 Rotate: 0
+ObjectName: tree_large_mesh (3) Pos: 57.7 0 30.1 Rotate: 90.00001
+ObjectName: Prop_Tree_01 Pos: 42.31 0 89.4 Rotate: 0
+ObjectName: Building_CoffeeShop (1) Pos: 94.3 -1 66.4 Rotate: 0
+ObjectName: Directional Light Pos: 50 3 50 Rotate: 330
+ObjectName: Plane Pos: 50 -1 50 Rotate: 0
+ObjectName: Main Camera Pos: 50 1 40 Rotate: 0

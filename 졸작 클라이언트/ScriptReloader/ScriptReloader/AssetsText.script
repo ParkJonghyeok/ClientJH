@@ -1,0 +1,1023 @@
+Scriptname: AssetsText.script
+NumberOfObjects: 318
+MeshName: grass_square_mesh
+Count: 6
+
+Pos: 100 0 100
+Rotate: 0 0 0
+Pos: 40 0 100
+Rotate: 0 0 0
+Pos: 100 0 40
+Rotate: 0 0 0
+Pos: 40 0 40
+Rotate: 0 0 0
+Pos: 40 0 100
+Rotate: 0 0 0
+Pos: 100 0 100
+Rotate: 0 0 0
+
+
+MeshName: bush_small_mesh
+Count: 3
+
+Pos: 96.21 0 97.02
+Rotate: 0 0 0
+Pos: 68.9474 -0.990302 1.17516
+Rotate: 0 0 0
+Pos: 96.21 0 97.02
+Rotate: 0 0 0
+
+
+MeshName: road_straight_clear_mesh
+Count: 78
+
+Pos: 80 0 40
+Rotate: 180 0 0
+Pos: 40 0 95
+Rotate: 270 0 0
+Pos: 60 0 75
+Rotate: 90 0 0
+Pos: 40 0 95
+Rotate: 270 0 0
+Pos: 70 0 40
+Rotate: 180 0 0
+Pos: 40 0 80
+Rotate: 270 0 0
+Pos: 15 0 40
+Rotate: 180 0 0
+Pos: 60 0 30
+Rotate: 90 0 0
+Pos: 95 0 40
+Rotate: 180 0 0
+Pos: 40 0 30
+Rotate: 270 0 0
+Pos: 60 0 15
+Rotate: 90 0 0
+Pos: 40 0 10
+Rotate: 270 0 0
+Pos: 30 0 40
+Rotate: 180 0 0
+Pos: 40 0 5
+Rotate: 270 0 0
+Pos: 15 0 60
+Rotate: 0 0 0
+Pos: 100 0 60
+Rotate: 0 0 0
+Pos: 40 0 85
+Rotate: 270 0 0
+Pos: 20 0 40
+Rotate: 180 0 0
+Pos: 60 0 30
+Rotate: 90 0 0
+Pos: 80 0 60
+Rotate: 0 0 0
+Pos: 15 0 60
+Rotate: 0 0 0
+Pos: 60 0 25
+Rotate: 90 0 0
+Pos: 60 0 25
+Rotate: 90 0 0
+Pos: 60 0 90
+Rotate: 90 0 0
+Pos: 40 0 35
+Rotate: 270 0 0
+Pos: 10 0 40
+Rotate: 180 0 0
+Pos: 15 0 40
+Rotate: 180 0 0
+Pos: 10 0 40
+Rotate: 180 0 0
+Pos: 60 0 90
+Rotate: 90 0 0
+Pos: 85 0 60
+Rotate: 0 0 0
+Pos: 40 0 70
+Rotate: 270 0 0
+Pos: 60 0 5
+Rotate: 90 0 0
+Pos: 40 0 90
+Rotate: 270 0 0
+Pos: 5 0 60
+Rotate: 0 0 0
+Pos: 20 0 60
+Rotate: 0 0 0
+Pos: 60 0 15
+Rotate: 90 0 0
+Pos: 40 0 20
+Rotate: 270 0 0
+Pos: 80 0 60
+Rotate: 0 0 0
+Pos: 95 0 40
+Rotate: 180 0 0
+Pos: 40 0 100
+Rotate: 270 0 0
+Pos: 25 0 40
+Rotate: 180 0 0
+Pos: 0 0 40
+Rotate: 180 0 0
+Pos: 40 0 75
+Rotate: 270 0 0
+Pos: 80 0 40
+Rotate: 180 0 0
+Pos: 60 0 0
+Rotate: 90 0 0
+Pos: 25 0 60
+Rotate: 0 0 0
+Pos: 40 0 85
+Rotate: 270 0 0
+Pos: 100 0 60
+Rotate: 0 0 0
+Pos: 40 0 15
+Rotate: 270 0 0
+Pos: 30 0 40
+Rotate: 180 0 0
+Pos: 70 0 60
+Rotate: 0 0 0
+Pos: 75 0 60
+Rotate: 0 0 0
+Pos: 95 0 60
+Rotate: 0 0 0
+Pos: 40 0 25
+Rotate: 270 0 0
+Pos: 10 0 60
+Rotate: 0 0 0
+Pos: 35 0 60
+Rotate: 0 0 0
+Pos: 90 0 40
+Rotate: 180 0 0
+Pos: 40 0 10
+Rotate: 270 0 0
+Pos: 60 0 65
+Rotate: 90 0 0
+Pos: 40 0 5
+Rotate: 270 0 0
+Pos: 20 0 40
+Rotate: 180 0 0
+Pos: 70 0 40
+Rotate: 180 0 0
+Pos: 60 0 70
+Rotate: 90 0 0
+Pos: 65 0 40
+Rotate: 180 0 0
+Pos: 60 0 75
+Rotate: 90 0 0
+Pos: 75 0 40
+Rotate: 180 0 0
+Pos: 60 0 20
+Rotate: 90 0 0
+Pos: 30 0 60
+Rotate: 0 0 0
+Pos: 60 0 95
+Rotate: 90 0 0
+Pos: 40 0 30
+Rotate: 270 0 0
+Pos: 60 0 10
+Rotate: 90 0 0
+Pos: 40 0 35
+Rotate: 270 0 0
+Pos: 60 0 80
+Rotate: 90 0 0
+Pos: 85 0 40
+Rotate: 180 0 0
+Pos: 60 0 85
+Rotate: 90 0 0
+Pos: 40 0 80
+Rotate: 270 0 0
+Pos: 90 0 60
+Rotate: 0 0 0
+Pos: 5 0 40
+Rotate: 180 0 0
+
+
+MeshName: rubbishTruck_mesh
+Count: 2
+
+Pos: 51.62 0 31.06
+Rotate: 180 0 0
+Pos: 51.62 0 31.06
+Rotate: 180 0 0
+
+
+MeshName: fence_long_mesh
+Count: 8
+
+Pos: 96.93 0 99.0997
+Rotate: 0 0 0
+Pos: 75.71 0 99.0997
+Rotate: 0 0 0
+Pos: 81.04 0 99.0997
+Rotate: 0 0 0
+Pos: 75.71 0 99.0997
+Rotate: 0 0 0
+Pos: 81.04 0 99.0997
+Rotate: 0 0 0
+Pos: 96.93 0 99.0997
+Rotate: 0 0 0
+Pos: 91.61 0 99.0997
+Rotate: 0 0 0
+Pos: 86.31 0 99.0997
+Rotate: 0 0 0
+
+
+MeshName: roadLane_straight_Centered_mesh
+Count: 40
+
+Pos: 15 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 53.3 0.00999999 70
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 65
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 95
+Rotate: 90 0 0
+Pos: 35 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 85 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 53.3 0.00999999 65
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 5
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 15
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 95
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 85
+Rotate: 90 0 0
+Pos: 70 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 53.3 0.00999999 30
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 30
+Rotate: 90 0 0
+Pos: 5 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 85 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 53.3 0.00999999 0
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 90
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 20
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 15
+Rotate: 90 0 0
+Pos: 5 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 30 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 15 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 75 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 70 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 10 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 90 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 53.3 0.00999999 25
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 10
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 85
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 5
+Rotate: 90 0 0
+Pos: 100 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 25 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 53.3 0.00999999 80
+Rotate: 90 0 0
+Pos: 53.3 0.00999999 75
+Rotate: 90 0 0
+Pos: 35 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 20 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 53.3 0.00999999 70
+Rotate: 90 0 0
+Pos: 80 0.00999999 53.3
+Rotate: 0 0 0
+Pos: 95 0.00999999 53.3
+Rotate: 0 0 0
+
+
+MeshName: Prop_Tree_01
+Count: 10
+
+Pos: 29.96 0 57.5
+Rotate: 0 0 0
+Pos: 30.07 0 42.42
+Rotate: 0 0 0
+Pos: 90.2 0 42.42
+Rotate: 0 0 0
+Pos: 30.07 0 42.42
+Rotate: 0 0 0
+Pos: 90.2 0 42.42
+Rotate: 0 0 0
+Pos: 64.02 0 1.12
+Rotate: 0 0 0
+Pos: 91.91 0 92.51
+Rotate: 0 0 0
+Pos: 90.1 0 57.5
+Rotate: 0 0 0
+Pos: 29.96 0 57.5
+Rotate: 0 0 0
+Pos: 42.31 0 89.4
+Rotate: 0 0 0
+
+
+MeshName: Env_Planter
+Count: 7
+
+Pos: 24.84 0 84.42
+Rotate: 0 0 0
+Pos: 64.33 0 16.01
+Rotate: 90 0 0
+Pos: 7.65 0 84.4
+Rotate: 0 0 0
+Pos: 24.84 0 84.42
+Rotate: 0 0 0
+Pos: 7.65 0 92.5
+Rotate: 0 0 0
+Pos: 64.33 0 16.01
+Rotate: 90 0 0
+Pos: 24.84 0 92.52
+Rotate: 0 0 0
+
+
+MeshName: car_red
+Count: 4
+
+Pos: 9.73 0 11.48
+Rotate: 0 0 0
+Pos: 9.73 0 11.48
+Rotate: 0 0 0
+Pos: 74.1 0 55
+Rotate: 90 0 0
+Pos: 74.1 0 55
+Rotate: 90 0 0
+
+
+MeshName: Prop_Beachseat_01
+Count: 2
+
+Pos: 80.14 0 92.13
+Rotate: 0 0 0
+Pos: 80.14 0 92.13
+Rotate: 0 0 0
+
+
+MeshName: Building_BaberShop
+Count: 2
+
+Pos: 17.43 -1 62.93
+Rotate: 0 0 0
+Pos: 17.43 -1 62.93
+Rotate: 0 0 0
+
+
+MeshName: road_corner_mesh
+Count: 6
+
+Pos: 40 0 60
+Rotate: 270 0 0
+Pos: 60 0 40
+Rotate: 90 0 0
+Pos: 60 0 60
+Rotate: 0 0 0
+Pos: 40 0 40
+Rotate: 180 0 0
+Pos: 60 0 40
+Rotate: 90 0 0
+Pos: 40 0 60
+Rotate: 270 0 0
+
+
+MeshName: Prop_Umbrella_02
+Count: 3
+
+Pos: 64.72 -1 6.61631
+Rotate: 0 0 0
+Pos: 80.4 0 95.72
+Rotate: 0 0 0
+Pos: 64.72 -1 6.61631
+Rotate: 0 0 0
+
+
+MeshName: Prop_Tree_02
+Count: 8
+
+Pos: 42.3 0 69.98
+Rotate: 0 0 0
+Pos: 97.85 0 76.89
+Rotate: 0 0 0
+Pos: 97.85 0 76.89
+Rotate: 0 0 0
+Pos: 57.65 0 89.9
+Rotate: 0 0 0
+Pos: 42.3 0 69.98
+Rotate: 0 0 0
+Pos: 42.35 0 30.2
+Rotate: 0 0 0
+Pos: 42.35 0 9.98
+Rotate: 0 0 0
+Pos: 57.65 0 89.9
+Rotate: 0 0 0
+
+
+MeshName: Building_Shop_05
+Count: 2
+
+Pos: 34.31 0 5.25999
+Rotate: 270 0 0
+Pos: 34.31 0 5.25999
+Rotate: 270 0 0
+
+
+MeshName: Building_StoreCorner_Drug
+Count: 2
+
+Pos: 65.62 0 65.44
+Rotate: 0 0 0
+Pos: 65.62 0 65.44
+Rotate: 0 0 0
+
+
+MeshName: Aerial_mesh
+Count: 3
+
+Pos: 81.56 -1 14.35
+Rotate: 0 0 0
+Pos: 81.56 -1 14.35
+Rotate: 0 0 0
+Pos: 10.83 0 78.71
+Rotate: 0 0 0
+
+
+MeshName: Building_ApartmentLarge_Brown
+Count: 2
+
+Pos: 17.7 0 9.77
+Rotate: 180 0 0
+Pos: 17.7 0 9.77
+Rotate: 180 0 0
+
+
+MeshName: traffic_light_mesh
+Count: 10
+
+Pos: 42.33 0 64.02
+Rotate: 90 0 0
+Pos: 64.4 0 57.59
+Rotate: 180 0 0
+Pos: 42.33 0 39.29
+Rotate: 90 0 0
+Pos: 64.4 0 57.59
+Rotate: 180 0 0
+Pos: 57.75 0 35.74
+Rotate: 270 0 0
+Pos: 35.76 0 42.26
+Rotate: 0 0 0
+Pos: 60.36 0 42.1
+Rotate: 0 0 0
+Pos: 39.59 0 57.68
+Rotate: 180 0 0
+Pos: 42.33 0 64.02
+Rotate: 90 0 0
+Pos: 57.75 0 60.47
+Rotate: 270 0 0
+
+
+MeshName: fence_short_spike
+Count: 3
+
+Pos: 39.09 -0.998431 26.1
+Rotate: 90 0 0
+Pos: 39.09 -0.998431 26.1
+Rotate: 90 0 0
+Pos: 39.09 -0.998431 28.72
+Rotate: 90 0 0
+
+
+MeshName: bush_large_mesh
+Count: 5
+
+Pos: 61.11 0 12.48
+Rotate: 0 0 0
+Pos: 61.11 0 12.48
+Rotate: 0 0 0
+Pos: 98.01 0 97.23
+Rotate: 0 0 0
+Pos: 98.01 0 97.23
+Rotate: 0 0 0
+Pos: 85.3 0 96.6
+Rotate: 0 0 0
+
+
+MeshName: trash_mesh
+Count: 3
+
+Pos: 57.87 0 78.359
+Rotate: 0 0 0
+Pos: 57.87 0 78.359
+Rotate: 0 0 0
+Pos: 62.57 0 4.42985
+Rotate: 0 0 0
+
+
+MeshName: road_crossing_mesh
+Count: 11
+
+Pos: 60 0 60
+Rotate: 90 0 0
+Pos: 65 0 60
+Rotate: 0 0 0
+Pos: 40 0 65
+Rotate: 270 0 0
+Pos: 40 0 65
+Rotate: 270 0 0
+Pos: 40 0 60
+Rotate: 0 0 0
+Pos: 65 0 60
+Rotate: 0 0 0
+Pos: 60 0 35
+Rotate: 90 0 0
+Pos: 60 0 40
+Rotate: 180 0 0
+Pos: 35 0 40
+Rotate: 180 0 0
+Pos: 40 0 40
+Rotate: 270 0 0
+Pos: 60 0 60
+Rotate: 90 0 0
+
+
+MeshName: Prop_TirePile
+Count: 3
+
+Pos: 14.75 0 38.2
+Rotate: 0 0 0
+Pos: 27.68 0 38.4
+Rotate: 0 0 0
+Pos: 14.75 0 38.2
+Rotate: 0 0 0
+
+
+MeshName: Building_OfficeSmall_Grey
+Count: 2
+
+Pos: 32.75 0 17.74
+Rotate: 270 0 0
+Pos: 32.75 0 17.74
+Rotate: 270 0 0
+
+
+MeshName: lamp_mesh
+Count: 12
+
+Pos: 56.6 0 20.3
+Rotate: 90 0 0
+Pos: 20.3 0 43.6
+Rotate: 180 0 0
+Pos: 80 0 43.57
+Rotate: 180 0 0
+Pos: 80 0 56.59
+Rotate: 0 0 0
+Pos: 74.5 0 88.22
+Rotate: 270 0 0
+Pos: 20.3 0 56.6
+Rotate: 0 0 0
+Pos: 56.6 0 79.81
+Rotate: 90 0 0
+Pos: 56.6 0 20.3
+Rotate: 90 0 0
+Pos: 43.7 0 19.84
+Rotate: 270 0 0
+Pos: 43.7 0 79.81
+Rotate: 270 0 0
+Pos: 20.3 0 43.6
+Rotate: 180 0 0
+Pos: 80 0 43.57
+Rotate: 180 0 0
+
+
+MeshName: ute_mesh_red
+Count: 2
+
+Pos: 44.7065 0 67.1365
+Rotate: 0 0 0
+Pos: 44.7065 0 67.1365
+Rotate: 0 0 0
+
+
+MeshName: Building_Shop_02
+Count: 2
+
+Pos: 63.49 0 23.2
+Rotate: 90 0 0
+Pos: 63.49 0 23.2
+Rotate: 90 0 0
+
+
+MeshName: tree_medium_mesh
+Count: 4
+
+Pos: 9.94 0 57.37
+Rotate: 0 0 0
+Pos: 77.81 0 92.6095
+Rotate: 0 0 0
+Pos: 70.1 0 57.37
+Rotate: 0 0 0
+Pos: 9.94 0 57.37
+Rotate: 0 0 0
+
+
+MeshName: road_Roundabout
+Count: 2
+
+Pos: 85 0 84.96
+Rotate: 0 0 0
+Pos: 85 0 84.96
+Rotate: 0 0 0
+
+
+MeshName: Building_OfficeSmall_Blue
+Count: 3
+
+Pos: 32.9 -1 79.4
+Rotate: 0 0 0
+Pos: 32.9 -1 79.4
+Rotate: 0 0 0
+Pos: 16.3 0 87.4132
+Rotate: 0 0 0
+
+
+MeshName: Building_StoreCorner_Pawn
+Count: 2
+
+Pos: 34.5 0 65.49
+Rotate: 270 0 0
+Pos: 34.5 0 65.49
+Rotate: 270 0 0
+
+
+MeshName: fire_truck_mesh
+Count: 2
+
+Pos: 31.16 0 48.32
+Rotate: 270 0 0
+Pos: 31.16 0 48.32
+Rotate: 270 0 0
+
+
+MeshName: hydrant_mesh
+Count: 6
+
+Pos: 28.09 0 41.99
+Rotate: 0 0 0
+Pos: 42.22 0 77.9
+Rotate: 0 0 0
+Pos: 58.05 0 27.92
+Rotate: 0 0 0
+Pos: 17.8821 0 80.4114
+Rotate: 0 0 0
+Pos: 86.8 0 42.06
+Rotate: 0 0 0
+Pos: 28.09 0 41.99
+Rotate: 0 0 0
+
+
+MeshName: pipe_mesh
+Count: 2
+
+Pos: 72.476 -1.08788 86.6263
+Rotate: 0 0 0
+Pos: 72.476 -1.08788 86.6263
+Rotate: 0 0 0
+
+
+MeshName: Building_OfficeStepped_Grey
+Count: 1
+
+Pos: 90.8 -1 11.8
+Rotate: 90 0 0
+
+
+MeshName: tree_large_mesh
+Count: 6
+
+Pos: 57.62 0 70.37
+Rotate: 90 0 0
+Pos: 57.7 0 9.9
+Rotate: 90 0 0
+Pos: 84.79 0 84.4
+Rotate: 0 0 0
+Pos: 70.2 0 42.59
+Rotate: 90 0 0
+Pos: 10 0 42.59
+Rotate: 90 0 0
+Pos: 57.7 0 30.1
+Rotate: 90 0 0
+
+
+MeshName: ambo_mesh
+Count: 1
+
+Pos: 48.4 0 67.8
+Rotate: 0 0 0
+
+
+MeshName: car_rr_wheel_mesh
+Count: 1
+
+Pos: 31.4258 0.363496 43.6483
+Rotate: 270 0 0
+
+
+MeshName: car_rl_wheel_mesh
+Count: 1
+
+Pos: 31.4258 0.363496 45.8717
+Rotate: 270 0 0
+
+
+MeshName: car_fr_wheel_mesh
+Count: 1
+
+Pos: 34.7823 0.363495 43.6483
+Rotate: 270 0 0
+
+
+MeshName: car_fl_wheel_mesh
+Count: 1
+
+Pos: 34.7823 0.363496 45.8717
+Rotate: 270 0 0
+
+
+MeshName: car_seperate_red
+Count: 1
+
+Pos: 33.16 0 44.76
+Rotate: 270 0 0
+
+
+MeshName: Building_OfficeLarge_Blue
+Count: 1
+
+Pos: 80.14 0 32.6
+Rotate: 180 0 0
+
+
+MeshName: Building_CoffeeShop
+Count: 2
+
+Pos: 65.96 0 34.26
+Rotate: 90 0 0
+Pos: 94.3 -1 66.4
+Rotate: 0 0 0
+
+
+MeshName: Building_ApartmentSmall_Orange
+Count: 1
+
+Pos: 66.47 -1 92
+Rotate: 90 0 0
+
+
+MeshName: Building_PizzaShop
+Count: 1
+
+Pos: 80 0 66.6
+Rotate: 270 0 0
+
+
+MeshName: car_blue
+Count: 2
+
+Pos: 66.7 0 51.5
+Rotate: 90 0 0
+Pos: 44.8 0 74.1
+Rotate: 0 0 0
+
+
+MeshName: flag_mesh
+Count: 1
+
+Pos: 12.8 6.256 78.71
+Rotate: 90 0 0
+
+
+MeshName: hotdog_rr_wheel
+Count: 1
+
+Pos: 70.8513 0.4302 6.77399
+Rotate: 180 0 0
+
+
+MeshName: hotdog_rl_wheel
+Count: 1
+
+Pos: 68.1687 0.4302 6.77399
+Rotate: 180 0 0
+
+
+MeshName: hotdog_fr_wheel
+Count: 1
+
+Pos: 70.8513 0.4302 10.7815
+Rotate: 180 0 0
+
+
+MeshName: hotdog_fl_wheel
+Count: 1
+
+Pos: 68.1687 0.4302 10.7815
+Rotate: 180 0 0
+
+
+MeshName: Vehicles_HotdogTruck
+Count: 1
+
+Pos: 69.51 0 8.89
+Rotate: 180 0 0
+
+
+MeshName: Building_AutoRepair
+Count: 1
+
+Pos: 18.32 0 33.5
+Rotate: 180 0 0
+
+
+MeshName: Prop_Umbrella_01
+Count: 1
+
+Pos: 64.72 -1 12.2017
+Rotate: 0 0 0
+
+
+MeshName: taxi_mesh
+Count: 1
+
+Pos: 55.01 -1.0015 32.97
+Rotate: 180 0 0
+
+
+MeshName: Prop_Roadsign_03
+Count: 2
+
+Pos: 57.9544 0 38.29
+Rotate: 0 0 0
+Pos: 39.91 0 41.95
+Rotate: 90 0 0
+
+
+MeshName: bus_brown
+Count: 1
+
+Pos: 75 0 51.7
+Rotate: 90 0 0
+
+
+MeshName: Building_Shop_01
+Count: 1
+
+Pos: 35.68 0 94.14
+Rotate: 270 0 0
+
+
+MeshName: Prop_Roadsign_01
+Count: 1
+
+Pos: 57.81 0 59.9
+Rotate: 180 0 0
+
+
+MeshName: ute_rr_wheel_mesh
+Count: 2
+
+Pos: 4.72941 0.359236 35.1276
+Rotate: 0 0 0
+Pos: 20.0324 0.359236 16.9494
+Rotate: 270 0 0
+
+
+MeshName: ute_rl_wheel_mesh
+Count: 2
+
+Pos: 6.87059 0.359236 35.1276
+Rotate: 0 0 0
+Pos: 20.0324 0.359236 19.0906
+Rotate: 270 0 0
+
+
+MeshName: ute_fr_wheel_mesh
+Count: 2
+
+Pos: 4.72941 0.359236 31.7711
+Rotate: 0 0 0
+Pos: 23.3889 0.359236 16.9494
+Rotate: 270 0 0
+
+
+MeshName: ute_fl_wheel_mesh
+Count: 2
+
+Pos: 6.87059 0.359236 31.7711
+Rotate: 0 0 0
+Pos: 23.3889 0.359236 19.0906
+Rotate: 270 0 0
+
+
+MeshName: ute_seperate_blue
+Count: 2
+
+Pos: 5.8 0 33.42
+Rotate: 0 0 0
+Pos: 21.74 0 18.02
+Rotate: 270 0 0
+
+
+MeshName: van_mesh_blue
+Count: 1
+
+Pos: 66.95 0 55.06
+Rotate: 90 0 0
+
+
+MeshName: Building_StoreCorner_Video
+Count: 1
+
+Pos: 34.3 0 34.22
+Rotate: 180 0 0
+
+
+MeshName: path_straight_mesh
+Count: 1
+
+Pos: 62.81 0 10
+Rotate: 0 0 0
+
+
+MeshName: Prop_Roadsign_02
+Count: 1
+
+Pos: 59.04 -0.997328 42.05
+Rotate: 270 0 0
+
+
+MeshName: car_green
+Count: 1
+
+Pos: 48.4 0 76.9
+Rotate: 0 0 0
+
+
+MeshName: cop_mesh
+Count: 1
+
+Pos: 25.2 0 44.87
+Rotate: 270 0 0
+
+
+MeshName: Building_Store_Video
+Count: 1
+
+Pos: 93.6 0 35.64
+Rotate: 0 0 0
+
+
+MeshName: Building_Gym
+Count: 1
+
+Pos: 6.4 0 63.5
+Rotate: 0 0 0
+
+
+MeshName: Directional
+Count: 1
+
+Pos: 50 3 50
+Rotate: 330 0 0
+
+
+MeshName: Plane
+Count: 1
+
+Pos: 50 -1 50
+Rotate: 0 0 0
+
+
+MeshName: Main
+Count: 2
+
+Pos: 50 1 40
+Rotate: 0 0 0
+Pos: 50 1 40
+Rotate: 0 0 0
+
+
