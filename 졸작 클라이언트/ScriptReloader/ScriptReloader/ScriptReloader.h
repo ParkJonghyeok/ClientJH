@@ -82,6 +82,7 @@ public:
 			delete iter;
 		m_Scriptvector.clear();
 	}
+	bool DecideValidatedMesh(string& meshname);
 };
 
 

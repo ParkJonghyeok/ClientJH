@@ -48,6 +48,23 @@ void CScript::ScriptPrintOut()
 	out.close();
 }
 
+
+bool CScript::DecideValidatedMesh(string& meshname)
+{
+	int strIter_pos = 0;
+
+	if ((meshname == "Main") || (meshname == "Directional")
+		|| (meshname == "Plane"))//제외해야할 이름(메쉬가 아님)
+		return false;
+	
+	strIter_pos = meshname.find("wheel", strIter_pos);
+
+	if (strIter_pos != std::string::npos)//계층 구조 메쉬 잔여물(차량 바퀴), 관련 정보는 나중에 따로 수집할 예정임
+		return false;
+	else
+		return true;
+}
+
 bool CScript::loadRawScript(string filename)
 {
 	SetScriptFilename(filename);
@@ -73,17 +90,27 @@ bool CScript::loadRawScript(string filename)
 			in >> ignore;
 		in >> x_pos >> y_pos >> z_pos >> ignore >> yaw;
 		//동일한 메시 리스트가 있는지 검색
-		auto pos = find_if(m_Scriptvector.begin(), m_Scriptvector.end(), [=](const CMeshScript* temp)
-		{
+		
+		if(!DecideValidatedMesh(lObject_name))	
+			continue;
+		
+		//현재 메쉬리스트에 등록된 것인지 확인한다.
+		auto scriptpos = find_if(m_Scriptvector.begin(), m_Scriptvector.end(), [=](const CMeshScript* temp)	{
 			return (temp->Getmeshname() == lObject_name);
 		});
-		//일치하는 것을 찾으면, 리스트에 추가
-		if (pos != m_Scriptvector.end())
+
+		if(scriptpos != m_Scriptvector.end())
 		{
-			(*pos)->insertObject(x_pos, y_pos, z_pos, yaw);
+			auto Iter_begin = (*scriptpos)->GetSCRvectors().begin();
+			auto Iter_end = (*scriptpos)->GetSCRvectors().end();
+			auto SCRvpos = find_if(Iter_begin, Iter_end, [=](const SCRvector& tempvec) 
+			{
+				return (tempvec.m_x == x_pos) && (tempvec.m_y == y_pos) && (tempvec.m_z == z_pos) && (tempvec.m_yaw == yaw);
+			});
+			if(SCRvpos == Iter_end) (*scriptpos)->insertObject(x_pos, y_pos, z_pos, yaw);
 		}
 		//일치하는 메시가 없으면 새로 메쉬리스트를 추가한다
-		else if (pos == m_Scriptvector.end())
+		else if (scriptpos == m_Scriptvector.end())
 		{
 			m_Scriptvector.push_back(new CMeshScript(lObject_name, x_pos, y_pos, z_pos, yaw));
 		}
